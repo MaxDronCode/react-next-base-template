@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:16.0.0"],\
           ["@testing-library/user-event", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:14.5.2"],\
           ["gitignore", "npm:0.7.0"],\
-          ["husky", "npm:9.1.4"],\
+          ["husky", "npm:8.0.3"],\
           ["jest", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:29.7.0"],\
           ["jest-cucumber", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:4.4.0"],\
           ["jest-environment-jsdom", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:29.7.0"],\
@@ -4256,10 +4256,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["husky", [\
-      ["npm:9.1.4", {\
-        "packageLocation": "./.yarn/cache/husky-npm-9.1.4-45a26bd693-c43aa7cbf9.zip/node_modules/husky/",\
+      ["npm:8.0.3", {\
+        "packageLocation": "./.yarn/cache/husky-npm-8.0.3-b0b59c5127-b754cf70fd.zip/node_modules/husky/",\
         "packageDependencies": [\
-          ["husky", "npm:9.1.4"]\
+          ["husky", "npm:8.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6647,7 +6647,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:16.0.0"],\
           ["@testing-library/user-event", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:14.5.2"],\
           ["gitignore", "npm:0.7.0"],\
-          ["husky", "npm:9.1.4"],\
+          ["husky", "npm:8.0.3"],\
           ["jest", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:29.7.0"],\
           ["jest-cucumber", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:4.4.0"],\
           ["jest-environment-jsdom", "virtual:f711631ab6e4206158445948d485c49ae73e150648881b6de095168632a8e1f4ecc0ab0d4231de2aa576f64eb7ed71b1fa9c3341b30d4a596980fa5b81e3d0dd#npm:29.7.0"],\
