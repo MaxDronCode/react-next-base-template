@@ -3237,6 +3237,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"husky@npm:^9.1.4":
+  version: 9.1.4
+  resolution: "husky@npm:9.1.4"
+  bin:
+    husky: bin.js
+  checksum: 10/c43aa7cbf98246d4f347bc3da807049555b5003af7c6e1658c5cea44a9743b4d0683c72973a4fe02a4ccceb81031a664ecaa7a1a86efe4d37a80a0af17c988ea
+  languageName: node
+  linkType: hard
+
 "iconv-lite@npm:0.6.3, iconv-lite@npm:^0.6.2":
   version: 0.6.3
   resolution: "iconv-lite@npm:0.6.3"
@@ -5307,6 +5316,7 @@ __metadata:
     "@testing-library/react": "npm:^16.0.0"
     "@testing-library/user-event": "npm:^14.5.2"
     gitignore: "npm:^0.7.0"
+    husky: "npm:^9.1.4"
     jest: "npm:^29.7.0"
     jest-cucumber: "npm:^4.4.0"
     jest-environment-jsdom: "npm:^29.7.0"
